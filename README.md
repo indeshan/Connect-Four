@@ -1,6 +1,6 @@
 # Connect Four
 
-##Four In A Line Rules
+## Four In A Line Rules
 
 - Point the cursor over the row you wish to drop your piece in.
 
